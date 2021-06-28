@@ -1,2 +1,4 @@
-# icann2021-unsupervised-language-adaptation
-Code for the ICANN 2021 paper "Improving Transfer Learning in Unsupervised Language Adaptation"
+# Improving Transfer Learning in Unsupervised Language Adaptation
+Source code for replicating the experiments from the ICANN 2021 paper "Improving Transfer Learning in Unsupervised Language Adaptation".
+
+Details coming soon ...
